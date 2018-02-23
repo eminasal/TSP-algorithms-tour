@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1513763980 source:d:\tspalgoritmi\tsp\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+
+1513764048 d:\tspalgoritmi\tsp\graf.h
+	"grad.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 d:\tspalgoritmi\tsp\grad.h
+
+1513807700 source:i:\tspalgoritmi\tsp\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+
+1513809480 i:\tspalgoritmi\tsp\graf.h
+	"grad.h"
+	"binarni.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 i:\tspalgoritmi\tsp\grad.h
+
+1513809478 i:\tspalgoritmi\tsp\binarni.h
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+
+1514972418 source:c:\users\student\downloads\fewfew\tspalgoritmi\tspalgoritmi\tsp\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+
+1514973275 c:\users\student\downloads\fewfew\tspalgoritmi\tspalgoritmi\tsp\graf.h
+	"grad.h"
+	"binarni.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 c:\users\student\downloads\fewfew\tspalgoritmi\tspalgoritmi\tsp\grad.h
+
+1513809666 c:\users\student\downloads\fewfew\tspalgoritmi\tspalgoritmi\tsp\binarni.h
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+
+1515012761 source:c:\users\slejl\downloads\fewfew\tspalgoritmi\tspalgoritmi\tsp\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+	<ctime>
+	<cstdio>
+	<chrono>
+
+1515014529 c:\users\slejl\downloads\fewfew\tspalgoritmi\tspalgoritmi\tsp\graf.h
+	"grad.h"
+	"binarni.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 c:\users\slejl\downloads\fewfew\tspalgoritmi\tspalgoritmi\tsp\grad.h
+
+1513809666 c:\users\slejl\downloads\fewfew\tspalgoritmi\tspalgoritmi\tsp\binarni.h
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+
+1515365257 source:c:\users\slejl\desktop\aaa4\tsp emina salkanovic\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+	<ctime>
+	<cstdio>
+	<chrono>
+
+1515359242 c:\users\slejl\desktop\aaa4\tsp emina salkanovic\graf.h
+	"grad.h"
+	"binarni.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 c:\users\slejl\desktop\aaa4\tsp emina salkanovic\grad.h
+
+1515359198 c:\users\slejl\desktop\aaa4\tsp emina salkanovic\binarni.h
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+
